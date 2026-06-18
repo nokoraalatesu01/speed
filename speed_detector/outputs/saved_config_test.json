@@ -1,0 +1,10 @@
+{
+  "line_a": "0.2,0.67,0.58,0.67",
+  "line_b": "0,0.81,0.62,0.81",
+  "distance_meters": 10.0,
+  "speed_limit_kmh": 60.0,
+  "max_speed_kmh": 150.0,
+  "confidence": 0.25,
+  "tracker": "bytetrack.yaml",
+  "detect_roi_only": false
+}

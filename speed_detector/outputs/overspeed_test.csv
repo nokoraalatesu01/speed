@@ -1,0 +1,4 @@
+source,track_id,vehicle_class,line_a_time_s,line_b_time_s,elapsed_s,speed_kmh,speed_limit_kmh,overspeed
+..\Camera_giao_thong\video_20260604_110118.mp4,2,car,0.233,0.900,0.667,54.0,60.0,False
+..\Camera_giao_thong\video_20260604_110118.mp4,1,car,0.533,1.000,0.467,77.1,60.0,True
+..\Camera_giao_thong\video_20260604_110118.mp4,5,truck,2.367,1.500,0.867,41.5,60.0,False
